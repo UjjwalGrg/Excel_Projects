@@ -39,7 +39,7 @@ This project underscores the importance of detailed data analysis in guiding sou
 
 ## Report
 
-Check out the full report [here](./Final_Report.pdf).
+Check out the full report [here](./Sales_And_Finance_Report.pdf).
 Feel free to explore the repository and reach out if you have any questions or feedback!
 
 ---
