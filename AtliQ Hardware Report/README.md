@@ -37,7 +37,9 @@ AtliQ Hardware, a global supplier of computer hardware and peripherals, is lever
 
 This project underscores the importance of detailed data analysis in guiding sound business decisions. By utilizing Excel's robust functionalities, I've gained valuable insights into the sales performance of AtliQ Hardware. Additionally, this endeavor has helped me enhance my skills in data cleaning, transformation, analysis, and visualization.
 
+## Report
 
+Check out the full report [here](./Final_Report.pdf).
 Feel free to explore the repository and reach out if you have any questions or feedback!
 
 ---
