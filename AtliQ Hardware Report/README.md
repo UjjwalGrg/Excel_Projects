@@ -3,6 +3,13 @@
 
 Welcome to the repository for my Sales and Finance Analytics Project for AtliQ Hardware! This project leverages advanced Excel techniques to analyze and uncover invaluable insights and trends in the sales and finance data of AtliQ Hardware.
 
+## Report
+
+Check out the full report [here](https://github.com/UjjwalGrg/Excel_Projects/blob/main/AtliQ%20Hardware%20Report/Sales_And_Finance_Report.pdf).
+
+Check out the Linkedin post for the report. [here](https://www.linkedin.com/posts/ujjwalgrg_report-activity-7201177705294307329-iLsV?utm_source=share&utm_medium=member_desktop).
+
+
 ## 🎯 Project Objective
 
 To create a comprehensive sales and financial report analyzing AtliQ Hardware's market performance for the years 2019, 2020, and 2021. This report provides valuable insights for informed decision-making.
@@ -37,14 +44,6 @@ AtliQ Hardware, a global supplier of computer hardware and peripherals, is lever
 
 This project underscores the importance of detailed data analysis in guiding sound business decisions. By utilizing Excel's robust functionalities, I've gained valuable insights into the sales performance of AtliQ Hardware. Additionally, this endeavor has helped me enhance my skills in data cleaning, transformation, analysis, and visualization.
 
-## Report
-
-Check out the full report [here](https://github.com/UjjwalGrg/Excel_Projects/blob/main/AtliQ%20Hardware%20Report/Sales_And_Finance_Report.pdf).
-
-Check out the Linkedin post for the report. [here](https://www.linkedin.com/posts/ujjwalgrg_report-activity-7201177705294307329-iLsV?utm_source=share&utm_medium=member_desktop).
-
-Feel free to explore the repository and reach out if you have any questions or feedback!
-
 ---
 
 
@@ -52,4 +51,4 @@ Feel free to explore the repository and reach out if you have any questions or f
 
 For any inquiries or further information, please contact Ujjwal Garg at ujjwalgarg335@gmail.com.
 
-
+Feel free to explore the repository and reach out if you have any questions or feedback!
