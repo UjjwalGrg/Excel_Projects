@@ -41,6 +41,7 @@ This project underscores the importance of detailed data analysis in guiding sou
 
 Check out the full report [here](https://github.com/UjjwalGrg/Excel_Projects/blob/main/AtliQ%20Hardware%20Report/Sales_And_Finance_Report.pdf).
 
+Check out the Linkedin post for the report. [here](https://www.linkedin.com/posts/ujjwalgrg_report-activity-7201177705294307329-iLsV?utm_source=share&utm_medium=member_desktop).
 Feel free to explore the repository and reach out if you have any questions or feedback!
 
 ---
